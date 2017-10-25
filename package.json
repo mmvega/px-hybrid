@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mercadopago/px-hybrid.git"
+    "url": "git+https://github.com/mmvega/px-hybrid.git"
   },
   "keywords": [
     "ecosystem:cordova",
